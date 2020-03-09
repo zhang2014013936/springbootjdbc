@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec4d37ec-f4a0-435b-a780-f4587249b165" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/java/com/damo/bootmall/SpringbootdamoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/java/com/damo/bootmall/bean/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/java/com/damo/bootmall/bean/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/java/com/damo/bootmall/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot-mall/src/main/resources/logback-dharma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootdamo/src/main/java/com/damo/bootdamo/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/client/MyFirstWebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/client/MyFirstWebServiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/client/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/client/TestWebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/client/TestWebServiceResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/client/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/src/main/java/com/dharma/demo/ProductClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/src/main/java/com/dharma/demo/bean/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/src/main/java/com/dharma/demo/controller/ProductServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/src/main/java/com/dharma/demo/controller/SearchServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-client/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server-repo/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/DamoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/ProductClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/damo/damoservice/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/money/MainPacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/money/Manger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/money/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/java/com/money/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../damoservice/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/src/com/damo/dao/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/src/com/damo/dao/IBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/src/com/damo/dao/IBookImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/src/com/damo/dao/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo111/src/main/java/com/example1111/demo/controller/IndexC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/Cap3/Cap3MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/Cap3/Cap3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap1/MainTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap1/config/MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap1/config/MainTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap2/config/Cap2MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap2/config/Cap2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap2/config/JamesTypeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap2/config/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap2/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap2/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/java/com/enjoy/cap2/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoo/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dfgs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dome/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eurkar-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eurkar-server/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/damo/gateway/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/src/main/java/com/damo/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/src/main/java/com/damo/config/Initialiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/src/main/java/com/damo/controller/HiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/src/main/java/com/damo/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greeting/src/main/java/com/damo/model/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intern/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/BankDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/ComparatorByLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/ComparatorByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/ComparetorByName1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/EnumerationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/ForeachDemoj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/GenericDemo23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/GenericDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/GenericDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/GenericDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/HastSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/HastSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/LinkekList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/Person1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/StopThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/SynTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/TestDome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/TestSetDEmo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/ThreadSingleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/day9/gericDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/fanxing/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/fanxing/GenericDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihelianxi/src/fanxing/Person12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Damo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Deno3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Dmeo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/LIanxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Lianxi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/animal/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/day01/DemoTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/day01/Demophone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/day01/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/day01/NewPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/day01/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/day01/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/day01/RunnableImpll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/digui/DiGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/net/TcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/net/TcpServser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/zifu/Damo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/zifu/IOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/zifu/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/zifu/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lianxi11/src/zifu/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/com/damo/login/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/com/damo/login/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/com/damo/login/SessionInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/com/damo/login/UserInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/mvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/view/accessDenied.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/view/admin/damo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/view/anonymous.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/view/invalidSession.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/view/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/view/sessionExpired.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavennew/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo-feedback/src/main/java/com/damo/mongofeedback/controller/FeedbackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo-feedback/src/main/java/com/damo/mongofeedback/dao/FeedbackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo-feedback/src/main/java/com/damo/mongofeedback/dao/FeedbackRepostitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo-feedback/src/main/java/com/damo/mongofeedback/dao/IFeedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo-feedback/src/main/java/com/damo/mongofeedback/model/Feedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo-feedback/src/main/resources/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mongo-feedback/src/main/resources/reduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/src/main/java/com/damo/product/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/src/main/java/com/damo/product/config/DataConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/src/main/java/com/damo/product/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/src/main/java/com/damo/product/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/src/main/java/com/damo/product/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/src/main/java/com/damo/product/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/src/main/java/com/damo/product/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpa/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/src/main/java/com/damo/product/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/src/main/java/com/damo/product/config/DataConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/src/main/java/com/damo/product/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/src/main/java/com/damo/product/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/src/main/java/com/damo/product/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/src/main/java/com/damo/product/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/src/main/java/com/damo/product/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvcjpatest/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/src/main/java/com/zz/mybatis/controller/MybatisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/src/main/java/com/zz/mybatis/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/src/main/java/com/zz/mybatis/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstwebservices/src/service/MyFirstWebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nanshan-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nanshan-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newlianxi/src/number/Romoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newlianxi/src/number/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-server/src/main/java/com/damo/productserver/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-server/src/main/java/com/damo/productserver/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-security/src/main/java/com/damo/restsecurty/SpringSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-security/src/main/java/com/damo/restsecurty/book/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-security/src/main/java/com/damo/restsecurty/book/AuthorValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-security/src/main/java/com/damo/restsecurty/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-security/src/main/java/com/damo/restsecurty/book/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest-security/src/main/java/com/damo/restsecurty/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restapi/src/main/java/com/damo/restapi/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdfg/src/main/java/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdfg/src/main/java/service/IServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdfg/src/main/java/service/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdfg/src/main/resources/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdfg/src/main/webapp/WEB-INF/geronimo-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdfg/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server/src/main/resources/bootstrop.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sgft/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/java/com/damo/configuration/DIConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/java/com/damo/consumer/AnnotateApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/java/com/damo/consumer/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/java/com/damo/consumer/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/java/com/damo/consumer/XMLApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/java/com/damo/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/java/com/damo/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/java/com/damo/service/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springDI/src/test/java/com/damo/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbean/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbean/src/main/java/com/damo/beans/AnnotatedBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbean/src/main/java/com/damo/beans/XmlBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbean/src/main/java/com/damo/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbean/src/main/webapp/WEB-INF/spring/root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbean/src/main/webapp/WEB-INF/spring/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbean/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbean/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-02/src/main/java/com/zhang/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-02/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-02/src/main/resources/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-04-data/src/main/java/com/kuang/controller/JDBCController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-04-data/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mybatis/src/main/java/com/kuang/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mybatis/src/main/java/com/kuang/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mybatis/src/main/java/com/kuang/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-mybatis/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/src/main/java/com/example/springboot/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/src/main/java/com/example/springboot/BoyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/src/main/java/com/example/springboot/helloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/bean/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/bean/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/bean/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/component/RedisComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/controller/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/dao/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/dao/ProductImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/dao/RoleReposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/dao/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/exception/damoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/service/UserDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/service/UserDetialService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/servlet/CustomFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/servlet/CustomListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/servlet/CustomServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/test/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/java/com/damo/bootmall/test/Parenthess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/logback-dharma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/public/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/templates/error/500.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/templates/error/5xx.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/templates/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdamo/src/main/resources/templates/product.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/java/com/dahem/demo/config/MyMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/java/com/dahem/demo/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/java/com/dahem/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/java/com/dahem/demo/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/java/com/dahem/demo/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/java/com/dahem/demo/pojo/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/java/com/dahem/demo/pojo/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/i18n/login.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/i18n/login_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/i18n/login_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/css/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/img/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/js/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/js/feather.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/js/jquery-3.2.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootfirst/src/main/resources/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kuang/springbootjdbc/controller/JdbcController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootlianxi/src/test/java/com/example/demo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootmevan/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootmevan/src/main/java/cn/enjoy/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/src/main/java/com/springcloud/demo/beans/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/src/main/java/com/springcloud/demo/controller/ProductServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdata/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdata/src/main/java/com/damo/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdata/src/main/java/com/damo/dao/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdata/src/main/java/com/damo/dao/ProductImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdata/src/main/java/com/damo/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdata/src/main/java/com/damo/model/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springdata/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springfirst/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springlianxi/src/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springlianxi/src/spring/bean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springlianxi/src/spring/bean/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springlianxi/src/spring/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc2/src/wormday/spring/helloworld/HiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc2/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc2/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc2/web/WEB-INF/jsp/say.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc2/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc_hello/src/com/test/controller/WelcomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc_hello/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc_hello/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc_hello/web/WEB-INF/jsp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc_hello/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/src/com/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcdemo/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/dome01/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/dome01/TestThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/dome01/TestThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/dome01/TestThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/jingtaidaili/StacticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/jingtaidaili/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/jingtaidaili/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/lambda/TestLambdal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/lock/TestLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/pc/TestPc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/pc/TestPc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/pc/TestPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/pc/ThreadNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/state/TestSleep2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/state/TestStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/state/Testjoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/syn/Testlock3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/com/zhang/syn/UnsafeTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webservice/src/service/WebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webservice/src/service/WebServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webservice/src/service/WebServicePublish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/bean/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/bean/KeyValuePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/CommentConterller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/dao/CommentDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/dao/CommentDalImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/dao/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/templates/products.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zz/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/Demo3Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/Demo3Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/bean/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/bean/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/WebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/conterller/WebController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/handler/dharmaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/handler/dharmaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/java/com/dharma/demo/api/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/logback-dharma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/logback-dharma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/static/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/static/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/templates/error/500.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/templates/error/500.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/templates/index.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/../zhangqiang10/src/main/resources/templates/index.ftl" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kuang/springbootjdbc/SpringbootjdbcApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kuang/springbootjdbc/controller/JdbcController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kuang/springbootjdbc/controller/JdbcController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.1/libexec" />
+        <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.6.1/libexec/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="638" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="801" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kuang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kuang" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kuang" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootjdbc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootjdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootjdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootjdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.springbootjdbc.SpringbootjdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec4d37ec-f4a0-435b-a780-f4587249b165" name="Default Changelist" comment="" />
+      <created>1583746423023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583746423023</updated>
+      <workItem from="1583746429104" duration="5962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5962000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="638" y="23" width="1440" height="801" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="658" y="80" width="343" height="677" id="Project" order="0" visible="true" weight="0.14949928" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Learn" order="8" />
+      <window_info id="Web" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41107872" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39290988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32924962" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kuang/springbootjdbc/SpringbootjdbcApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kuang/springbootjdbc/controller/JdbcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_74</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
